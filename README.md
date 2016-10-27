@@ -1,6 +1,8 @@
 # Readthrough
 Node.js read-through cache implementation, to be used with any cache engine.
 
+![](https://travis-ci.org/kodjevlar/readthrough.svg?branch=master)
+
 ## Installation
 `npm install readthrough --save`
 
