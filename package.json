@@ -1,6 +1,6 @@
 {
   "name": "readthrough",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Read through cache implementation",
   "main": "index.js",
   "directories": {

@@ -44,6 +44,8 @@ Cache.readthrough('customer', { id: 1 }, 3600, function() {
     name: 'Test',
     email: 'test@test.com'
   });
+}).then(function(data) {
+  console.log(data); // Actual data, from cache or from your callback
 });
 ```
 
