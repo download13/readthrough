@@ -29,7 +29,7 @@ API:<br/>
 `readthrough(entity, identifier, ttl, callback)`
 
 Where `entity` is the name of the entity to get. `identifier` is an object that
-identifies the specific entity. ´entity´ and `identifier` is used to create
+identifies the specific entity. `entity` and `identifier` is used to create
 the cache key.
 
 `ttl` is the time-to-live value for the entry. `callback` will be executed on
