@@ -1,0 +1,32 @@
+{
+  "name": "readthrough",
+  "version": "0.1.0",
+  "description": "Read through cache implementation",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodjevlar/readthrough.git"
+  },
+  "keywords": [
+    "cache",
+    "readtrough",
+    "redis"
+  ],
+  "author": "Johan Kanefur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kodjevlar/readthrough/issues"
+  },
+  "homepage": "https://github.com/kodjevlar/readthrough#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2",
+    "sinon": "^1.17.6"
+  }
+}
